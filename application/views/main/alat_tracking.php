@@ -9,13 +9,13 @@
     <div class="card-header bg-primary border-b-0">
         <div class="dropdown mt-sm-0 mt-3">
             <button type="button" class="btn bg-light text-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                PA Jakarta Timur Kelas I A
+                Universitas Mercubuana - Meruya
             </button>
             <button type="button" class="btn bg-primary text-white border tambah_alat">
                 Tambah
             </button>
             <div class="dropdown-menu dropdown-menu-right">
-                <a class="dropdown-item" href="javascript:void(0);">PA Jakarta Timur Kelas I A</a>
+                <a class="dropdown-item" href="javascript:void(0);">Universitas Mercubuana - Meruya</a>
             </div>
         </div>
         <div class="input-group search-area d-lg-inline-flex border">
@@ -33,6 +33,8 @@
                         <th>No</th>
                         <th>Nama Alat</th>
                         <th>Kode Alat</th>
+                        <th>Lokasi</th>
+                        <th>Koordinat</th>
                         <th>Status Alat</th>
                         <th>Aksi</th>
                     </tr>
@@ -47,6 +49,13 @@
                         </td>
                         <td>
                             DEV_400647_1
+                        </td>
+						<td>
+                            Jakarta Barat
+                        </td>
+						<td>
+                            <p>Longitude : -6.209152377602629</p>
+                            <p>Latitude : 106.86200641107204</p>
                         </td>
                         <td>
                             <a class="text-success mr-3 mb-2">
@@ -66,6 +75,13 @@
                         </td>
                         <td>
                             DEV_400647_2
+                        </td>
+						<td>
+                            Jakarta Barat
+                        </td>
+                        <td>
+                            <p>Longitude : -6.209152377602629</p>
+                            <p>Latitude : 106.86200641107204</p>
                         </td>
                         <td>
                             <a class="text-danger mr-3 mb-2">

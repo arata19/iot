@@ -50,7 +50,7 @@
                         </td>
                         <td>
                             <p>Longitude : -6.32465149766958</p>
-                            <p>Latitude : 106.86200641107204</p>
+                            <p>Latitude : 106.73859686848921</p>
                         </td>
                         <td>
                             <a href="#" class="btn btn-primary shadow btn-xs sharp mr-1" data-toggle="tooltip" data-placement="bottom" title="Edit"><i class="fa fa-pencil"></i></a>

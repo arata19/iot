@@ -3,54 +3,54 @@
         <tbody class="text-primary">
             <tr>
                 <td>
-                    123/Pdt.G/2022/PA.JT (P)
+                    Sensor 1 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    124/Pdt.G/2022/PA.JT (P)
+                    Sensor 2 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    125/Pdt.G/2022/PA.JT (P)
+                    Sensor 3 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    126/Pdt.G/2022/PA.JT (P)
+                    Sensor 4 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    127/Pdt.G/2022/PA.JT (P)
+                    Sensor 5 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    128/Pdt.G/2022/PA.JT (P)
+                    Sensor 6 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    129/Pdt.G/2022/PA.JT (P)
+                    Sensor 7 : .... Value
                 </td>
             </tr>
             <tr>
 
                 <td>
-                    130/Pdt.G/2022/PA.JT (P)
+                    Sensor 8 : .... Value
                 </td>
 
             </tr>
             <tr>
                 <td>
-                    131/Pdt.G/2022/PA.JT (P)
+                    Sensor 9 : .... Value
                 </td>
             </tr>
             <tr>
                 <td>
-                    132/Pdt.G/2022/PA.JT (P)
+                    Sensor 10 : .... Value
                 </td>
             </tr>
         </tbody>

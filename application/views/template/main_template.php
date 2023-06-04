@@ -47,9 +47,9 @@
         ***********************************-->
         <div class="nav-header">
             <a href="<?php echo base_url(''); ?>" class="brand-logo">
-                <img class="logo-abbr" src="<?php echo base_url() ?>assets/images/logo_pajt.png" alt="">
-                <img class="logo-compact" src="<?php echo base_url() ?>assets/images/jstrack-text.png" alt="">
-                <img class="brand-title" src="<?php echo base_url() ?>assets/images/jstrack-text.png" alt="">
+                <img class="logo-abbr" src="<?php echo base_url() ?>assets/images/iot.png" alt="">
+                <img class="logo-compact" src="<?php echo base_url() ?>assets/images/iot-3.png" alt="">
+                <img class="brand-title" src="<?php echo base_url() ?>assets/images/iot-4.png" alt="">
             </a>
 
             <div class="nav-control">
@@ -74,9 +74,9 @@
                                 <a class="nav-link" href="javascript:void(0)" role="button" data-toggle="dropdown">
                                     <div class="header-info">
                                         <span class="text-black">Selamat Datang, <strong>Rezza Rijki Adiputra</strong></span>
-                                        <p class="fs-12 mb-0">Juru Sita</p>
+                                        <p class="fs-12 mb-0">Software Developer</p>
                                     </div>
-                                    <img src="<?php echo base_url() ?>assets/images/profile/17.jpg" width="20" alt="" />
+                                    <img src="<?php echo base_url() ?>assets/images/profile/men-user.jpg" width="20" alt="" />
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-right">
                                     <a href="#" class="dropdown-item ai-icon">
@@ -121,30 +121,35 @@
                             <span class="nav-text">Tracking</span>
                         </a>
                     </li>
+					<!--**********************************
                     <li><a href="javascript:void(0);" class="ai-icon menu" ctrl="main" menu="user_js_jsp" aria-expanded="false">
                             <i class="flaticon-381-user-9"></i>
-                            <span class="nav-text">Data User JS/JSP</span>
+                            <span class="nav-text">Data Wilayah/Daerah Pengguna Alat</span>
                         </a>
                     </li>
+					***********************************-->
                     <li><a href="javascript:void(0);" class="ai-icon menu" ctrl="main" menu="alat_tracking" aria-expanded="false">
                             <i class="flaticon-381-settings"></i>
-                            <span class="nav-text">Data Alat Tracking</span>
+                            <span class="nav-text">Data Alat Monitoring/Kontroling</span>
                         </a>
                     </li>
+					<!--**********************************
                     <li><a href="javascript:void(0);" class="ai-icon menu" ctrl="main" menu="pengaturan_yurisdiksi" aria-expanded="false">
                             <i class="flaticon-381-settings-2"></i>
-                            <span class="nav-text">Pengaturan Yurisdiksi</span>
+                            <span class="nav-text">Pengaturan Pengguna Alat</span>
                         </a>
                     </li>
+					
                     <li><a href="javascript:void(0);" class="ai-icon menu" ctrl="main" menu="panggilan_sidang" aria-expanded="false">
                             <i class="flaticon-381-ring"></i>
                             <span class="nav-text">Panggilan Sidang</span>
                         </a>
                     </li>
+					***********************************-->
                 </ul>
 
                 <div class="copyright">
-                    <p><strong>Pengadilan Agama Jakarta Timur</strong> © 2022 All Rights Reserved</p>
+                    <p><strong>Internet Of Things Webserver</strong> © 2022 All Rights Reserved</p>
                 </div>
             </div>
         </div>

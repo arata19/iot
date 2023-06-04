@@ -10,15 +10,15 @@
         <div class="card rounded shadow bg-primary">
             <div class="card-body d-flex flex-column justify-content-center h-100 align-items-center">
                 <img src=" <?php echo base_url('assets/images/dashboard.png'); ?>" width="400" alt="dashboard">
-                <h1 class="text-white mt-3">TRACKER</h1>
-                <h4 class="text-white">Pengadilan Agama Jakarta Timur Kelas I A</h4>
+                <h1 class="text-white mt-3">Monitoring dan Kontroling IPAL</h1>
+                <h4 class="text-white">Internet of Things</h4>
             </div>
         </div>
     </div>
     <div class="col-xl-6 col-xxl-6 col-lg-6">
         <div class="card rounded shadow" style="height: 300px;">
             <div class="card-header bg-primary border-b-0">
-                <h3 class="text-white">Rekapitulasi Tenaga Teknis Kejurusitaan</h3>
+                <h3 class="text-white">Rekapitulasi Data Pengguna Alat</h3>
             </div>
             <div class="card-body pb-0">
                 <div class="table-responsive">
@@ -29,7 +29,7 @@
                                     <i class="flaticon-381-user-9 fs-26"></i>
                                 </td>
                                 <td>
-                                    <h4>Juru Sita</h4>
+                                    <h4>Kabupaten/Kota</h4>
                                 </td>
                                 <td>
                                     <h4>20</h4>
@@ -40,7 +40,7 @@
                                     <i class="flaticon-381-user-9 fs-26"></i>
                                 </td>
                                 <td>
-                                    <h4>Juru Sita Pengganti</h4>
+                                    <h4>Kabupaten/Kota</h4>
                                 </td>
                                 <td>
                                     <h4>5</h4>
